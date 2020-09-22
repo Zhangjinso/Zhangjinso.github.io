@@ -1,6 +1,7 @@
 ## Welcome to My Homepage
 
-Addr: Tianjin, China \\
+Addr: Tianjin, China 
+
 Email: jinszhang@tju.edu.cn
 
 
