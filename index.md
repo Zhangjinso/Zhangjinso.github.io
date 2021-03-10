@@ -36,7 +36,9 @@ CVPR 2021, First Author
 
 **Jinsong Zhang**, Kun Li, Yu-Kun Lai, Jingyu Yang
 
-[[Project]((http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html)) ] [[Arxiv preprint](https://arxiv.org/abs/2103.04023) ] [[Code](https://github.com/Zhangjinso/PISE)]
+[[Project]((http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html)) ] [[Arxiv preprint](https://arxiv.org/abs/2103.04023) ] [[Code](https://github.com/Zhangjinso/PISE)]  
+   
+   
 
 
 
@@ -47,7 +49,9 @@ TIP 2020, Joint First Author
 Kun Li, **Jinsong Zhang**, Yebin Liu, Yu-Kun Lai, Qionghai Dai
 
 [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html)] [[Arxiv preprint](https://arxiv.org/abs/2012.07049)] [[Code](https://github.com/Zhangjinso/PoNA)]
-
+  
+    
+    
 
 
 Human Pose Transfer by Adaptive Hierarchical Deformation
