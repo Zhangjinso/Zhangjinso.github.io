@@ -33,7 +33,7 @@ My name is Jinsong Zhang. I am a master student from Tianjin University, under t
 
 #### Conferences:
 
-- **Jinsong Zhang**, Kun Li, Yu-Kun Lai, Jingyu Yang, PISE: Person Image Synthesis and Editing with Decoupled GAN. CVPR 2021. [[Project]((http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html)) ] [[Arxiv preprint](https://arxiv.org/abs/2103.04023) ] [[Code](https://github.com/Zhangjinso/PISE)]  
+- **Jinsong Zhang**, Kun Li, Yu-Kun Lai, Jingyu Yang, PISE: Person Image Synthesis and Editing with Decoupled GAN. CVPR 2021. [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html)] [[Arxiv preprint](https://arxiv.org/abs/2103.04023) ] [[Code](https://github.com/Zhangjinso/PISE)]  
 
 
 
