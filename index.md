@@ -39,7 +39,7 @@ My name is Jinsong Zhang. I am a master student from Tianjin University, under t
 
 #### Journals:
 
-|    <img src="teasers/pise.png" width="60%">  | Kun Li, **Jinsong Zhang**, Yebin Liu, Yu-Kun Lai, Qionghai Dai, PoNA: Pose-guided Non-local Attention for Human Pose Transfer. TIP 2020. (Joint First Author) [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html)] [[Arxiv preprint](https://arxiv.org/abs/2012.07049)] [[Code](https://github.com/Zhangjinso/PoNA)] |
+|    <img src="teasers/pona.png" width="60%">  | Kun Li, **Jinsong Zhang**, Yebin Liu, Yu-Kun Lai, Qionghai Dai, PoNA: Pose-guided Non-local Attention for Human Pose Transfer. TIP 2020. (Joint First Author) [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html)] [[Arxiv preprint](https://arxiv.org/abs/2012.07049)] [[Code](https://github.com/Zhangjinso/PoNA)] |
 | ---- | ------------------------------------------------------------ |
 |   ![0](teasers/pinet.png)   | **Jinsong Zhang**, Xingzi Liu, Kun Li, Human Pose Transfer by Adaptive Hierarchical Deformation. Computer Graphic Forum (PG2020) 2020. [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_pg/PINet.html)] [[Arxiv preprint](https://arxiv.org/abs/2012.06940)] [[Code](https://github.com/Zhangjinso/PINet_PG)] |
 
