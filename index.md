@@ -32,16 +32,16 @@ My name is Jinsong Zhang. I am a master student from Tianjin University, under t
 ### Publications
 
 #### Conferences:
-
-- **Jinsong Zhang**, Kun Li, Yu-Kun Lai, Jingyu Yang, PISE: Person Image Synthesis and Editing with Decoupled GAN. CVPR 2021. [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html)] [[Arxiv preprint](https://arxiv.org/abs/2103.04023) ] [[Code](https://github.com/Zhangjinso/PISE)]  
+|  ![2](teasers/pise.png)    | **Jinsong Zhang**, Kun Li, Yu-Kun Lai, Jingyu Yang, PISE: Person Image Synthesis and Editing with Decoupled GAN. CVPR 2021. [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html)] [[Arxiv preprint](https://arxiv.org/abs/2103.04023) ] [[Code](https://github.com/Zhangjinso/PISE)] |
+| ---- | ------------------------------------------------------------ |
 
 
 
 #### Journals:
 
-- Kun Li, **Jinsong Zhang**, Yebin Liu, Yu-Kun Lai, Qionghai Dai, PoNA: Pose-guided Non-local Attention for Human Pose Transfer. TIP 2020. (Joint First Author) [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html)] [[Arxiv preprint](https://arxiv.org/abs/2012.07049)] [[Code](https://github.com/Zhangjinso/PoNA)]
-
-- **Jinsong Zhang**, Xingzi Liu, Kun Li, Human Pose Transfer by Adaptive Hierarchical Deformation. Computer Graphic Forum (PG2020) 2020. [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_pg/PINet.html)] [[Arxiv preprint](https://arxiv.org/abs/2012.06940)] [[Code](https://github.com/Zhangjinso/PINet_PG)]
+|   ![1](teasers/pona.png)   | Kun Li, **Jinsong Zhang**, Yebin Liu, Yu-Kun Lai, Qionghai Dai, PoNA: Pose-guided Non-local Attention for Human Pose Transfer. TIP 2020. (Joint First Author) [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html)] [[Arxiv preprint](https://arxiv.org/abs/2012.07049)] [[Code](https://github.com/Zhangjinso/PoNA)] |
+| ---- | ------------------------------------------------------------ |
+|   ![0](teasers/pinet.png)   | **Jinsong Zhang**, Xingzi Liu, Kun Li, Human Pose Transfer by Adaptive Hierarchical Deformation. Computer Graphic Forum (PG2020) 2020. [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_pg/PINet.html)] [[Arxiv preprint](https://arxiv.org/abs/2012.06940)] [[Code](https://github.com/Zhangjinso/PINet_PG)] |
 
 
 
