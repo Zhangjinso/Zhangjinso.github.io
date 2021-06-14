@@ -22,8 +22,9 @@ My name is Jinsong Zhang. I am a master student from Tianjin University, under t
 
 
 ### Education
+- phd School of Tianjin College of Intelligence and Computing, Tianjin University (2021——）
 
-- M.S. School of Tianjin International Engineering Institute, Tianjin University (September 2018—now)
+- M.S. School of Tianjin International Engineering Institute, Tianjin University (September 2018—2021)
 
 - B.S. School of  Mathematics, Tianjin University (2014—2018)
 
