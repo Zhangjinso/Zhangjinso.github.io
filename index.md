@@ -17,14 +17,14 @@
 
 ### About
 
-My name is Jinsong Zhang. I am a master student from Tianjin University, under the supervision of Associate Professor [Kun Li](http://cic.tju.edu.cn/faculty/likun/index.html). I am about to recive my my Bachelor's degree from the school of Mathematic, TJU in 2018. My research interests are image generation, computer vision and computer graphic, etc.
+My name is Jinsong Zhang. I am a master student from Tianjin University, under the supervision of Associate Professor [Kun Li](http://cic.tju.edu.cn/faculty/likun/index.html). I am about to receive my my Bachelor's degree from the school of Mathematic, TJU in 2018. My research interests are image generation, computer vision and computer graphic, etc.
 
 
 
 ### Education
 - phd School of Tianjin College of Intelligence and Computing, Tianjin University (2021——）
 
-- M.S. School of Tianjin International Engineering Institute, Tianjin University (September 2018—2021)
+- M.S. School of Tianjin International Engineering Institute, Tianjin University (September 2018—2021)(Pose Transfer)
 
 - B.S. School of  Mathematics, Tianjin University (2014—2018)
 
@@ -35,14 +35,46 @@ My name is Jinsong Zhang. I am a master student from Tianjin University, under t
 #### Conferences:
 - **Jinsong Zhang**, Kun Li, Yu-Kun Lai, Jingyu Yang, PISE: Person Image Synthesis and Editing with Decoupled GAN. CVPR 2021. [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html)] [[Arxiv preprint](https://arxiv.org/abs/2103.04023) ] [[Code](https://github.com/Zhangjinso/PISE)]  
 
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html"><img src="teasers/pise.jpg"/></a></td>
+<td align="left" width=550>PoNA: Pose-guided Non-local Attention for Human Pose Transfer.<br>
+<a href="https://zhangjinso.github.io/"><b>Jinsong Zhang</b></a>, 
+<a href="http://cic.tju.edu.cn/faculty/likun/index.html">Kun Li</a>, 
+<a href="https://www.cardiff.ac.uk/people/view/118139-lai-yukun">Yu-Kun Lai</a>,
+<a href="http://media.au.tsinghua.edu.cn/english/team/qhdai.html">Jingyu Yang</a><br>,
+In CVPR 2021<br>
+<a href="https://arxiv.org/abs/2103.04023">[Paper]</a> 
+<a href="https://github.com/Zhangjinso/PISE">[Code]</a> 
+<a href="http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html">[Project]</a>
+</td></tr></tbody></table>
 
 
 #### Journals:
 
-- Kun Li, **Jinsong Zhang**, Yebin Liu, Yu-Kun Lai, Qionghai Dai, PoNA: Pose-guided Non-local Attention for Human Pose Transfer. TIP 2020. (Joint First Author) [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html)] [[Arxiv preprint](https://arxiv.org/abs/2012.07049)] [[Code](https://github.com/Zhangjinso/PoNA)]
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html"><img src="teasers/pinet.jpg"/></a></td>
+<td align="left" width=550>Human Pose Transfer by Adaptive Hierarchical Deformation.<br>
+    <a href="https://zhangjinso.github.io/"> <b>Jinsong Zhang</b> </a>, 
+Xingzi Liu,
+<a href="http://cic.tju.edu.cn/faculty/likun/index.html">Kun Li</a>, 
+In  Computer Graphic Forum (PG2020) 2020.<br>
+<a href="https://arxiv.org/abs/2012.06940">[Paper]</a> 
+<a href="https://github.com/Zhangjinso/PINet_PG">[Code]</a> 
+<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_pg/PINet.html">[Project]</a>
+</td></tr></tbody></table>
 
-- **Jinsong Zhang**, Xingzi Liu, Kun Li, Human Pose Transfer by Adaptive Hierarchical Deformation. Computer Graphic Forum (PG2020) 2020. [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_pg/PINet.html)] [[Arxiv preprint](https://arxiv.org/abs/2012.06940)] [[Code](https://github.com/Zhangjinso/PINet_PG)]
 
-
-
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html"><img src="teasers/pona.jpg"/></a></td>
+<td align="left" width=550>PoNA: Pose-guided Non-local Attention for Human Pose Transfer.<br>
+<a href="http://cic.tju.edu.cn/faculty/likun/index.html">Kun Li</a>, 
+<a href="https://zhangjinso.github.io/"><b>Jinsong Zhang</b></a>, 
+<a href="http://liuyebin.com/">Yebin Liu</a>,
+<a href="https://www.cardiff.ac.uk/people/view/118139-lai-yukun">Yu-Kun Lai</a>,
+<a href="http://media.au.tsinghua.edu.cn/english/team/qhdai.html">Qionghai Dai</a><br>,
+In TIP 2020<br>
+<a href="https://arxiv.org/abs/2012.07049">[Paper]</a> 
+<a href="https://github.com/Zhangjinso/PoNA">[Code]</a> 
+<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html">[Project]</a>
+</td></tr></tbody></table>
 
