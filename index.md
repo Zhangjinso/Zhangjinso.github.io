@@ -35,7 +35,7 @@ My name is Jinsong Zhang. I am a master student from Tianjin University, under t
 #### Conferences:
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html"><img src="teasers/pise.jpg"/></a></td>
+<a href="http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html"><img src="teasers/pise.png"/></a></td>
 <td align="left" width=550>PoNA: Pose-guided Non-local Attention for Human Pose Transfer.<br>
 <a href="https://zhangjinso.github.io/"><b>Jinsong Zhang</b></a>, 
 <a href="http://cic.tju.edu.cn/faculty/likun/index.html">Kun Li</a>, 
@@ -51,7 +51,7 @@ In CVPR 2021<br>
 #### Journals:
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html"><img src="teasers/pinet.jpg"/></a></td>
+<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_pg/PINet.html"><img src="teasers/pinet.png"/></a></td>
 <td align="left" width=550>Human Pose Transfer by Adaptive Hierarchical Deformation.<br>
     <a href="https://zhangjinso.github.io/"> <b>Jinsong Zhang</b> </a>, 
 Xingzi Liu,
@@ -64,7 +64,7 @@ In  Computer Graphic Forum (PG2020) 2020.<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html"><img src="teasers/pona.jpg"/></a></td>
+<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html"><img src="teasers/pona.png"/></a></td>
 <td align="left" width=550>PoNA: Pose-guided Non-local Attention for Human Pose Transfer.<br>
 <a href="http://cic.tju.edu.cn/faculty/likun/index.html">Kun Li</a>, 
 <a href="https://zhangjinso.github.io/"><b>Jinsong Zhang</b></a>, 
