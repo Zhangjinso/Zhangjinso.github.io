@@ -62,7 +62,8 @@ In TIP 2020<br>
 <a href="https://arxiv.org/abs/2012.07049">[Paper]</a> 
 <a href="https://github.com/Zhangjinso/PoNA">[Code]</a> 
 <a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html">[Project]</a>
-  
+</td></tr></tbody></table>
+ 
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_pg/PINet.html"><img src="teasers/pinet.png"/></a></td>
 <td align="left" width=550>Human Pose Transfer by Adaptive Hierarchical Deformation.<br>
@@ -77,5 +78,5 @@ In  Computer Graphic Forum (PG) 2020<br>
 
 
 
-</td></tr></tbody></table>
+
 
