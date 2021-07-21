@@ -51,6 +51,19 @@ In CVPR 2021<br>
 #### Journals:
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html"><img src="teasers/pona.png"/></a></td>
+<td align="left" width=550>PoNA: Pose-guided Non-local Attention for Human Pose Transfer.<br>
+<a href="http://cic.tju.edu.cn/faculty/likun/index.html">Kun Li</a>, 
+<a href="https://zhangjinso.github.io/"><b>Jinsong Zhang</b></a>, 
+<a href="http://liuyebin.com/">Yebin Liu</a>,
+<a href="https://www.cardiff.ac.uk/people/view/118139-lai-yukun">Yu-Kun Lai</a>,
+<a href="http://media.au.tsinghua.edu.cn/english/team/qhdai.html">Qionghai Dai</a><br>
+In TIP 2020<br>
+<a href="https://arxiv.org/abs/2012.07049">[Paper]</a> 
+<a href="https://github.com/Zhangjinso/PoNA">[Code]</a> 
+<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html">[Project]</a>
+  
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_pg/PINet.html"><img src="teasers/pinet.png"/></a></td>
 <td align="left" width=550>Human Pose Transfer by Adaptive Hierarchical Deformation.<br>
     <a href="https://zhangjinso.github.io/"> <b>Jinsong Zhang</b> </a>, 
@@ -63,17 +76,6 @@ In  Computer Graphic Forum (PG) 2020<br>
 </td></tr></tbody></table>
 
 
-<table> <tbody> <tr> <td align="left" width=250>
-<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html"><img src="teasers/pona.png"/></a></td>
-<td align="left" width=550>PoNA: Pose-guided Non-local Attention for Human Pose Transfer.<br>
-<a href="http://cic.tju.edu.cn/faculty/likun/index.html">Kun Li</a>, 
-<a href="https://zhangjinso.github.io/"><b>Jinsong Zhang</b></a>, 
-<a href="http://liuyebin.com/">Yebin Liu</a>,
-<a href="https://www.cardiff.ac.uk/people/view/118139-lai-yukun">Yu-Kun Lai</a>,
-<a href="http://media.au.tsinghua.edu.cn/english/team/qhdai.html">Qionghai Dai</a><br>
-In TIP 2020<br>
-<a href="https://arxiv.org/abs/2012.07049">[Paper]</a> 
-<a href="https://github.com/Zhangjinso/PoNA">[Code]</a> 
-<a href="http://cic.tju.edu.cn/faculty/likun/projects/PoseTrans_TIP/TIP2020.html">[Project]</a>
+
 </td></tr></tbody></table>
 
