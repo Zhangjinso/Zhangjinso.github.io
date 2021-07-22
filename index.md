@@ -69,7 +69,7 @@ In TIP 2020<br>
 <td align="left" width=550>Human Pose Transfer by Adaptive Hierarchical Deformation.<br>
     <a href="https://zhangjinso.github.io/"> <b>Jinsong Zhang</b> </a>, 
 Xingzi Liu,
-  <a href="http://cic.tju.edu.cn/faculty/likun/index.html">Kun Li</a></br> 
+  <a href="http://cic.tju.edu.cn/faculty/likun/index.html">Kun Li</a><br> 
 In  Computer Graphic Forum (PG) 2020<br>
 <a href="https://arxiv.org/abs/2012.06940">[Paper]</a> 
 <a href="https://github.com/Zhangjinso/PINet_PG">[Code]</a> 
