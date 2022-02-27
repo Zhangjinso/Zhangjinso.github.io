@@ -85,7 +85,7 @@ In  Computer Graphic Forum (PG) 2020<br>
   <a href="https://www.cardiff.ac.uk/people/view/118139-lai-yukun">Yu-Kun Lai</a>,
 <a href="https://zhangjinso.github.io/"><b>Jinsong Zhang</b></a>, 
 <a href="http://liuyebin.com/">Yebin Liu</a>,
-<a>Yuanqiang Yu </a>
+<a>Yuanqiang Yu </a>,
 <a href="http://cic.tju.edu.cn/faculty/likun/index.html">Kun Li</a>  <br>
 In CVM 2022<br>
 <a href="http://cic.tju.edu.cn/faculty/likun/projects/STATE/assets/STATE_final.pdf">[Paper]</a> 
