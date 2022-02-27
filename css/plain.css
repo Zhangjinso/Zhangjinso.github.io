@@ -1,0 +1,17 @@
+.logo-image { max-width:100%; height:auto; overflow:hidden;}
+
+h3 {
+	color: #080707 ;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 21px;
+	margin-top: 0.5em;
+	margin-bottom: 0.2em;
+	padding-bottom: 0.2em;
+	line-height: 1.0;
+	padding-top: 0.5em;
+	border-bottom: 1px solid #aaaaaa;
+}
+
+.journal{
+    color: #8d4114;
+}
