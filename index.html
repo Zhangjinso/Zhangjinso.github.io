@@ -366,7 +366,19 @@ image synthesis.
 		<li> As an reviewer of conferences: CVPR, ICCV, ACMMM, CICAI </li>
 	</ul>
 
-<!-- <a href="https://clustrmaps.com/site/1bn1v"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=ZmTCgLbbZo-WIsNTe7af8KiDAsUJiqA8BhCsSP3BO90&cl=ffffff" /></a> -->
+<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZmTCgLbbZo-WIsNTe7af8KiDAsUJiqA8BhCsSP3BO90"></script> -->
+
+<div id="map-container" style="display: none; transform: scale(0.6); transform-origin: top left;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZmTCgLbbZo-WIsNTe7af8KiDAsUJiqA8BhCsSP3BO90"></script>
+</div>
+
+<script>
+  // 访问网址时加 ?showmap=1 才显示
+  if (window.location.search.includes('index')) {
+    document.getElementById('map-container').style.display = 'block';
+  }
+</script>
+
 
   </body>
 </html>
